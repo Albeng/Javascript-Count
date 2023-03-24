@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.container {
+  display: block;
+  margin: 200px;
+  padding-bottom: 200px;
+  padding-top: 200px;
+  background-color: rgb(60, 136, 203);
+  text-align: center;
+}
+
+#countLabel {
+  display: block;
+  text-align: center;
+  font-size: 100px;
+}
+
+button {
+    font-size: 50px;
+}
+
